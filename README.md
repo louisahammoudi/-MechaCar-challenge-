@@ -1,6 +1,7 @@
-# MechaCar Statistical Analysis Using R
+
 
 ##Overview
+
 AutosRUs' new MechaCar is "suffering from production troubles" and the company is hoping that an analytical review may help provide some insight. The goal of this project is to:
 
 discover which variables predict the MPG for vehicle prototypes;
