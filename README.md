@@ -4,10 +4,13 @@
 
 AutosRUs' new MechaCar is "suffering from production troubles" and the company is hoping that an analytical review may help provide some insight. The goal of this project is to:
 
-discover which variables predict the MPG for vehicle prototypes;
-collect summary stats on the PSI of suspension coils;
-determine if manufacturing lots are statistically different from the mean population;
-design a study to compare the MechaCar performance against vehicles from other manufacturers.
+-Discover which variables predict the MPG for vehicle prototypes;
+
+-collect summary stats on the PSI of suspension coils;
+
+-determine if manufacturing lots are statistically different from the mean population;
+
+-design a study to compare the MechaCar performance against vehicles from other manufacturers.
 ```
 library(dplyr)
 
