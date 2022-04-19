@@ -1,8 +1,12 @@
 # MechaCar Statistical Analysis Using R
 
-## Linear Regression to Predict MPG
-I designed a linear model that predicts the mpg of MechaCar prototypes using several variables including vehicle length, weight, spoiler angle, drivetrain and ground clearance. To create the linear regression, I read the data csv file, used the lm() function to create the linear regression, and used the summary() function to produce the summary statistics.
+##Overview
+AutosRUs' new MechaCar is "suffering from production troubles" and the company is hoping that an analytical review may help provide some insight. The goal of this project is to:
 
+discover which variables predict the MPG for vehicle prototypes;
+collect summary stats on the PSI of suspension coils;
+determine if manufacturing lots are statistically different from the mean population;
+design a study to compare the MechaCar performance against vehicles from other manufacturers.
 ```
 library(dplyr)
 
